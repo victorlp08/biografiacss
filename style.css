@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    background-color: cornsilk;
+    color: rgb(72, 69, 57);
+}
+
+.div {
+    padding: 1em;
+    width: 50vw;
+    text-align: justify;
+}
+
+.img1 {
+    border-radius:  50%;
+    border: 5px solid rgb(72, 69, 57);
+}
+
+audio {
+    display: flex;
+    margin-top: 10px;
+}
+
+a {
+    font-size: .8em;
+    text-decoration: none;
+    color: rgb(88, 73, 54);
+}
+
+.citacao {
+    margin: 5px;
+}
